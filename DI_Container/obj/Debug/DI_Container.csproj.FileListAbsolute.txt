@@ -1,0 +1,6 @@
+D:\C# Projects\DI_Container\DI_Container\obj\Debug\DI_Container.csprojAssemblyReference.cache
+D:\C# Projects\DI_Container\DI_Container\obj\Debug\DI_Container.csproj.CoreCompileInputs.cache
+D:\C# Projects\DI_Container\DI_Container\bin\Debug\DI_Container.exe
+D:\C# Projects\DI_Container\DI_Container\bin\Debug\DI_Container.pdb
+D:\C# Projects\DI_Container\DI_Container\obj\Debug\DI_Container.exe
+D:\C# Projects\DI_Container\DI_Container\obj\Debug\DI_Container.pdb
